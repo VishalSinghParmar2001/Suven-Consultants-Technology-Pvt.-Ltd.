@@ -7,6 +7,7 @@ Consumer Loan Assistant Project
 This project will help you get a handle on consumer debt. The Consumer Loan Assistant Project you would build computes payments and loan terms given balance and interest information. We look at focus traversal among controls, how to do input validation, and the message box for user feedback.
 
 ![Screenshot (231)](https://user-images.githubusercontent.com/86226001/128392833-5e36dc17-e23b-4a9c-bd62-ba46e57a9f80.png)
+                                            (1)
 
 ![Screenshot (225)](https://user-images.githubusercontent.com/86226001/128393218-cd71cf75-084c-4912-a5bf-e38de8aebee7.png)
 
